@@ -468,7 +468,7 @@ async function ghFetchData(forceRefresh) {
     if(!r.ok) throw new Error('fetch failed ' + r.status);
     const j = await r.json();
     _ghFileSha = j.sha;
-    _ghData = JSON.parse(atob(j.content.replace(/\n/g,'')));
+    _ghData = JSON.parse(decodeURIComponent(escape(atob(j.content.replace(/\n/g,'')))));
     return _ghData;
   } catch(e) {
     console.warn('GitHub 读取失败，降级到 localStorage', e);

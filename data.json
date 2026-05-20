@@ -622,8 +622,8 @@
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
       "date": "2026-06-06",
-      "brand": "D-Cal",
-      "shortBrand": "D-Cal",
+      "brand": "D-Cal海外官方旗舰店",
+      "shortBrand": "D-Cal海外…",
       "kol": "南大硕士小朱妈妈",
       "target": 10,
       "tier": "10w+",
@@ -707,8 +707,8 @@
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
       "date": "2026-06-09",
-      "brand": "D-Cal",
-      "shortBrand": "D-Cal",
+      "brand": "D-Cal海外官方旗舰店",
+      "shortBrand": "D-Cal海外…",
       "kol": "弯崽妈咪",
       "target": 10,
       "tier": "10w+",
@@ -1109,6 +1109,23 @@
       "brandPending": true,
       "pendingMonth": "",
       "createdAt": "2026-05-20T17:33:43.686Z"
+    },
+    {
+      "id": "38b10665-1616-42ab-a651-1e2bb7e9f558",
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "date": "2026-05-25",
+      "brand": "D-Cal海外官方旗舰店",
+      "shortBrand": "D-Cal海外官方旗舰店",
+      "kol": "南北麻麻",
+      "target": 50,
+      "tier": "50w+",
+      "note": "",
+      "category": "",
+      "pending": false,
+      "brandPending": false,
+      "pendingMonth": "",
+      "createdAt": "2026-05-20T17:58:45.616Z"
     }
   ],
   "benchmarks": {
@@ -1121,16 +1138,10 @@
     "Kiwiherb海外旗舰店": "45w+",
     "美繁旗舰店": "50w+",
     "纽瑞优Neurio旗舰店": "150w+",
-    "Ddrops滴卓思海外旗舰店": "100w+",
-    "Perdays海外旗舰店": "35w+",
-    "许尤佳旗舰店": "100w+",
-    "a2营养支持品旗舰店": "200w+",
-    "D-Cal海外官方旗舰店": "200w+",
-    "STRAFBRG舒适宝旗舰店": "25w+"
+    "Ddrops滴卓思海外旗舰店": "100w+"
   },
   "remarks": {
-    "Ddrops滴卓思海外旗舰店": "番茄50w+",
-    "许尤佳旗舰店": "冲刺150w+"
+    "Ddrops滴卓思海外旗舰店": "番茄50w+"
   },
-  "updatedAt": "2026-05-20T17:57:56.454Z"
+  "updatedAt": "2026-05-20T17:58:49.815Z"
 }

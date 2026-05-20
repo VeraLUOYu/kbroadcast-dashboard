@@ -975,23 +975,6 @@
       "createdAt": "2026-05-20T17:02:29.503Z"
     },
     {
-      "id": "940ba637-9f6f-4839-be93-3c8f36b6f1ff",
-      "am": "am_xiaoxi",
-      "amName": "小西(袁丽娟)",
-      "date": "",
-      "brand": "a2营养",
-      "shortBrand": "买手iris营养品专场",
-      "kol": "待定 （已定商家Ddrops）",
-      "target": 100,
-      "tier": "100w+",
-      "note": "",
-      "category": "",
-      "pending": true,
-      "brandPending": false,
-      "pendingMonth": "6月",
-      "createdAt": "2026-05-20T17:14:20.914Z"
-    },
-    {
       "id": "d4bad102-47ab-478b-bd71-46d32e7e1d6e",
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
@@ -1113,5 +1096,5 @@
   ],
   "benchmarks": {},
   "remarks": {},
-  "updatedAt": "2026-05-20T17:15:00.286Z"
+  "updatedAt": "2026-05-20T17:15:10.319Z"
 }

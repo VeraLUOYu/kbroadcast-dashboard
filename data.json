@@ -1128,29 +1128,52 @@
       "createdAt": "2026-05-20T17:33:43.686Z"
     },
     {
-      "id": "92da4b90-0c8a-49fc-a6df-7ffb60785391",
+      "id": "c54413a9-c762-4e5d-b292-72a87ece4666",
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
-      "date": "",
+      "date": "2026-05-22",
       "brand": "美繁旗舰店",
       "shortBrand": "美繁",
-      "kol": "大橘观",
+      "kol": "美朱迪儿",
       "target": 5,
       "tier": "5w+",
       "note": "",
       "category": "",
-      "pending": true,
+      "pending": false,
       "brandPending": false,
-      "pendingMonth": "6月",
-      "createdAt": "2026-05-20T17:44:53.252Z"
+      "pendingMonth": "",
+      "createdAt": "2026-05-20T17:45:59.917Z"
+    },
+    {
+      "id": "d6a6c217-6cd1-49aa-bba8-0066ae13d383",
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "date": "2026-05-22",
+      "brand": "美繁旗舰店",
+      "shortBrand": "美繁",
+      "kol": "沫白儿",
+      "target": 5,
+      "tier": "5w+",
+      "note": "",
+      "category": "",
+      "pending": false,
+      "brandPending": false,
+      "pendingMonth": "",
+      "createdAt": "2026-05-20T17:45:59.918Z"
     }
   ],
   "benchmarks": {
     "VITAGrow唯他瑞海外旗舰店": "400w+",
     "英珞维 Innovite旗舰店": "200w+",
     "Doctor jepson旗舰店": "100w+",
-    "KINGSLAC海外旗舰店": "30w+"
+    "KINGSLAC海外旗舰店": "30w+",
+    "Neuromins旗舰店": "200w+",
+    "天然博士旗舰店": "150w+",
+    "Kiwiherb海外旗舰店": "45w+",
+    "美繁旗舰店": "50w+"
   },
-  "remarks": {},
-  "updatedAt": "2026-05-20T17:44:53.555Z"
+  "remarks": {
+    "Ddrops滴卓思海外旗舰店": "番茄50w+"
+  },
+  "updatedAt": "2026-05-20T17:46:00.222Z"
 }

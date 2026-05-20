@@ -973,9 +973,26 @@
       "brandPending": false,
       "pendingMonth": "",
       "createdAt": "2026-05-20T17:02:19.318Z"
+    },
+    {
+      "id": "7a160db3-a80a-453e-8259-6fd2115ac90b",
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "date": "2026-05-21",
+      "brand": "Perdays",
+      "shortBrand": "Perdays",
+      "kol": "田力妃Gillian",
+      "target": 1,
+      "tier": "1w+",
+      "note": "",
+      "category": "",
+      "pending": false,
+      "brandPending": false,
+      "pendingMonth": "",
+      "createdAt": "2026-05-20T17:02:29.503Z"
     }
   ],
   "benchmarks": {},
   "remarks": {},
-  "updatedAt": "2026-05-20T17:02:19.620Z"
+  "updatedAt": "2026-05-20T17:02:29.804Z"
 }

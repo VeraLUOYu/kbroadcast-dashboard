@@ -990,43 +990,9 @@
       "brandPending": false,
       "pendingMonth": "",
       "createdAt": "2026-05-20T17:02:29.503Z"
-    },
-    {
-      "id": "f65ad53b-3a67-4011-8e80-1370f60238de",
-      "am": "am_xiaoxi",
-      "amName": "小西(袁丽娟)",
-      "date": "2026-05-22",
-      "brand": "VITAGrow唯他瑞海外旗舰店",
-      "shortBrand": "VITAGrow唯他瑞",
-      "kol": "美朱迪儿",
-      "target": 5,
-      "tier": "5w+",
-      "note": "",
-      "category": "",
-      "pending": false,
-      "brandPending": false,
-      "pendingMonth": "",
-      "createdAt": "2026-05-20T17:05:34.951Z"
-    },
-    {
-      "id": "647bc571-9759-4103-8559-333d8877c870",
-      "am": "am_xiaoxi",
-      "amName": "小西(袁丽娟)",
-      "date": "2026-05-22",
-      "brand": "美繁",
-      "shortBrand": "美繁",
-      "kol": "美朱迪儿",
-      "target": 10,
-      "tier": "10w+",
-      "note": "",
-      "category": "",
-      "pending": false,
-      "brandPending": false,
-      "pendingMonth": "",
-      "createdAt": "2026-05-20T17:05:34.952Z"
     }
   ],
   "benchmarks": {},
   "remarks": {},
-  "updatedAt": "2026-05-20T17:05:35.258Z"
+  "updatedAt": "2026-05-20T17:06:28.070Z"
 }

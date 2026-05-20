@@ -975,7 +975,41 @@
       "createdAt": "2026-05-20T17:02:29.503Z"
     },
     {
-      "id": "b3ed55b4-1baa-43b9-9a17-7ce902aa632e",
+      "id": "51840613-cb82-440d-9926-3cc3893b9b78",
+      "am": "",
+      "amName": "",
+      "date": "",
+      "brand": "待定",
+      "shortBrand": "待定",
+      "kol": "买手番茄罐头",
+      "target": 100,
+      "tier": "100w+",
+      "note": "补剂专场已定商家Ddrops",
+      "category": "",
+      "pending": true,
+      "brandPending": true,
+      "pendingMonth": "6月",
+      "createdAt": "2026-05-20T17:17:31.736Z"
+    },
+    {
+      "id": "1c43943d-5e63-490e-bac9-c55a3e602d1f",
+      "am": "",
+      "amName": "",
+      "date": "2026-06-13",
+      "brand": "待定",
+      "shortBrand": "待定",
+      "kol": "买手iris补剂专场",
+      "target": 100,
+      "tier": "100w+",
+      "note": "补剂专场已定商家英珞维",
+      "category": "",
+      "pending": true,
+      "brandPending": true,
+      "pendingMonth": "",
+      "createdAt": "2026-05-20T17:17:31.737Z"
+    },
+    {
+      "id": "c6dc6732-08c3-4a4d-bd6f-98b105e03518",
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
       "date": "",
@@ -989,10 +1023,10 @@
       "pending": true,
       "brandPending": false,
       "pendingMonth": "6月",
-      "createdAt": "2026-05-20T17:19:12.800Z"
+      "createdAt": "2026-05-20T17:19:33.135Z"
     },
     {
-      "id": "36b49f45-5ae9-435d-aaef-dd572d4b55cf",
+      "id": "96502256-e3bb-491b-92bf-d28434cb89ea",
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
       "date": "",
@@ -1006,10 +1040,10 @@
       "pending": true,
       "brandPending": false,
       "pendingMonth": "6月",
-      "createdAt": "2026-05-20T17:19:12.801Z"
+      "createdAt": "2026-05-20T17:19:33.135Z"
     },
     {
-      "id": "925cea7f-07d1-4d69-be15-8d1f24c7d4c1",
+      "id": "da239f57-24b1-4a81-bc81-7d003f042520",
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
       "date": "2026-06-11",
@@ -1023,10 +1057,10 @@
       "pending": true,
       "brandPending": true,
       "pendingMonth": "",
-      "createdAt": "2026-05-20T17:19:12.801Z"
+      "createdAt": "2026-05-20T17:19:33.135Z"
     },
     {
-      "id": "211b0009-cf86-4177-a49a-2da234d98eef",
+      "id": "39d79bac-1fc3-40d4-ae2e-6987e451a56e",
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
       "date": "",
@@ -1040,10 +1074,10 @@
       "pending": true,
       "brandPending": false,
       "pendingMonth": "6月",
-      "createdAt": "2026-05-20T17:19:12.801Z"
+      "createdAt": "2026-05-20T17:19:33.135Z"
     },
     {
-      "id": "6f7a5524-400b-4f46-adcc-fd1e2cae8a75",
+      "id": "26270794-8fa0-4082-bce4-4da6bf5ca5d6",
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
       "date": "",
@@ -1057,10 +1091,10 @@
       "pending": true,
       "brandPending": false,
       "pendingMonth": "6月",
-      "createdAt": "2026-05-20T17:19:12.801Z"
+      "createdAt": "2026-05-20T17:19:33.135Z"
     },
     {
-      "id": "e3a5b070-17e7-4693-a39b-f9e2d75f3171",
+      "id": "6a1b863e-853d-4b77-89e4-e484f8f17ae2",
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
       "date": "",
@@ -1074,10 +1108,10 @@
       "pending": true,
       "brandPending": true,
       "pendingMonth": "6月",
-      "createdAt": "2026-05-20T17:19:12.801Z"
+      "createdAt": "2026-05-20T17:19:33.135Z"
     },
     {
-      "id": "6753bb42-83c7-4e10-8a85-d01a159db56c",
+      "id": "20dc524b-af75-43b0-81b1-c3c693fe6f4d",
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
       "date": "",
@@ -1091,10 +1125,10 @@
       "pending": true,
       "brandPending": false,
       "pendingMonth": "6月",
-      "createdAt": "2026-05-20T17:19:12.801Z"
+      "createdAt": "2026-05-20T17:19:33.135Z"
     }
   ],
   "benchmarks": {},
   "remarks": {},
-  "updatedAt": "2026-05-20T17:19:13.102Z"
+  "updatedAt": "2026-05-20T17:19:33.438Z"
 }

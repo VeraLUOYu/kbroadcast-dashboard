@@ -502,9 +502,12 @@ async function ghSaveData(data) {
 // 兼容同步接口：读取优先用内存缓存（异步加载后更新）
 function loadEvents() {
   if(_ghData && _ghData.events) return _ghData.events;
-  // 降级到 localStorage
+  // 优先读本地 localStorage（v5 → v4 → 预置数据）
   const saved = localStorage.getItem(STORAGE_KEY);
-  if(saved) { try { return JSON.parse(saved); } catch(e){} }
+  if(saved) { try { const p = JSON.parse(saved); if(p.length > 0) return p; } catch(e){} }
+  // v5为空时尝试读v4（兼容旧版录入数据）
+  const savedV4 = localStorage.getItem('kbroadcast_v4');
+  if(savedV4) { try { const p4 = JSON.parse(savedV4); if(p4.length > 0) { localStorage.setItem(STORAGE_KEY, savedV4); return p4; } } catch(e){} }
   localStorage.setItem(STORAGE_KEY, JSON.stringify(PRESET_EVENTS));
   return [...PRESET_EVENTS];
 }
@@ -1050,10 +1053,21 @@ async function initGitHub() {
   if(indicator) indicator.textContent = '☁️ 同步中...';
   const data = await ghFetchData(true);
   if(data) {
-    // 同步 GitHub 数据到 localStorage（让离线也能用）
-    if(data.events) localStorage.setItem(STORAGE_KEY, JSON.stringify(data.events));
-    if(data.benchmarks) localStorage.setItem(BENCHMARK_KEY, JSON.stringify(data.benchmarks));
-    if(data.remarks) localStorage.setItem(REMARK_KEY, JSON.stringify(data.remarks));
+    // 本地数据优先：只有本地为空时才用 GitHub 数据填充
+    const localEvents = localStorage.getItem(STORAGE_KEY);
+    const localHasData = localEvents && JSON.parse(localEvents).length > 0;
+    if(!localHasData && data.events && data.events.length > 0) {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(data.events));
+    }
+    const localBench = localStorage.getItem(BENCHMARK_KEY);
+    if(!localBench || localBench === '{}') {
+      if(data.benchmarks) localStorage.setItem(BENCHMARK_KEY, JSON.stringify(data.benchmarks));
+    }
+    const localRemark = localStorage.getItem(REMARK_KEY);
+    if(!localRemark || localRemark === '{}') {
+      if(data.remarks) localStorage.setItem(REMARK_KEY, JSON.stringify(data.remarks));
+    }
+    _ghData = data;
     renderAll();
     if(indicator) { indicator.textContent = '☁️ 已同步'; setTimeout(()=>{ indicator.textContent='☁️ GitHub'; },3000); }
   } else {

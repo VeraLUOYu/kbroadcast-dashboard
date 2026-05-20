@@ -990,9 +990,26 @@
       "brandPending": true,
       "pendingMonth": "6月",
       "createdAt": "2026-05-20T17:23:46.533Z"
+    },
+    {
+      "id": "68bb594b-1bba-4e80-b242-88b195c3f4d5",
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "date": "2026-06-13",
+      "brand": "待定",
+      "shortBrand": "待定",
+      "kol": "iris",
+      "target": 100,
+      "tier": "100w+",
+      "note": "已定商家英珞维",
+      "category": "",
+      "pending": true,
+      "brandPending": true,
+      "pendingMonth": "",
+      "createdAt": "2026-05-20T17:26:10.284Z"
     }
   ],
   "benchmarks": {},
   "remarks": {},
-  "updatedAt": "2026-05-20T17:25:36.123Z"
+  "updatedAt": "2026-05-20T17:26:10.587Z"
 }

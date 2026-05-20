@@ -1109,9 +1109,26 @@
       "brandPending": false,
       "pendingMonth": "6月",
       "createdAt": "2026-05-20T17:14:20.914Z"
+    },
+    {
+      "id": "1cd5af95-91ff-4008-95f2-d0488b359c23",
+      "am": "",
+      "amName": "",
+      "date": "2026-06-11",
+      "brand": "6月",
+      "shortBrand": "6月",
+      "kol": "",
+      "target": 100,
+      "tier": "100w+",
+      "note": "安森妈妈补剂专场  × 待定 （品牌待定）",
+      "category": "",
+      "pending": true,
+      "brandPending": false,
+      "pendingMonth": "",
+      "createdAt": "2026-05-20T17:14:44.667Z"
     }
   ],
   "benchmarks": {},
   "remarks": {},
-  "updatedAt": "2026-05-20T17:14:21.223Z"
+  "updatedAt": "2026-05-20T17:14:44.970Z"
 }

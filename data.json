@@ -939,9 +939,43 @@
       "brandPending": false,
       "pendingMonth": "",
       "createdAt": "2026-05-20T17:01:23.552Z"
+    },
+    {
+      "id": "e12bd894-6286-4196-abfb-c0da55c7892d",
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "date": "2026-05-19",
+      "brand": "美繁",
+      "shortBrand": "美繁",
+      "kol": "同传妈妈",
+      "target": 10,
+      "tier": "10w+",
+      "note": "",
+      "category": "",
+      "pending": false,
+      "brandPending": false,
+      "pendingMonth": "",
+      "createdAt": "2026-05-20T17:02:19.318Z"
+    },
+    {
+      "id": "ae9e38df-b651-4b88-a756-0d4d5a1cfe4c",
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "date": "2026-05-20",
+      "brand": "Perdays",
+      "shortBrand": "Perdays",
+      "kol": "丙火火聊孕产",
+      "target": 10,
+      "tier": "10w+",
+      "note": "",
+      "category": "",
+      "pending": false,
+      "brandPending": false,
+      "pendingMonth": "",
+      "createdAt": "2026-05-20T17:02:19.318Z"
     }
   ],
   "benchmarks": {},
   "remarks": {},
-  "updatedAt": "2026-05-20T17:01:23.854Z"
+  "updatedAt": "2026-05-20T17:02:19.620Z"
 }

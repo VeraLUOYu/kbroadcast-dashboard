@@ -1128,7 +1128,9 @@
       "createdAt": "2026-05-20T17:33:43.686Z"
     }
   ],
-  "benchmarks": {},
+  "benchmarks": {
+    "VITAGrow唯他瑞海外旗舰店": "400w+"
+  },
   "remarks": {},
-  "updatedAt": "2026-05-20T17:36:26.843Z"
+  "updatedAt": "2026-05-20T17:38:53.994Z"
 }

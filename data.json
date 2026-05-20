@@ -990,9 +990,43 @@
       "brandPending": false,
       "pendingMonth": "",
       "createdAt": "2026-05-20T17:02:29.503Z"
+    },
+    {
+      "id": "b50a1906-e74d-44c7-a127-8f7b4d07959e",
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "date": "2026-05-23",
+      "brand": "VITAGrow唯他瑞海外旗舰店",
+      "shortBrand": "VITAGrow唯他瑞",
+      "kol": "L虎妈",
+      "target": 5,
+      "tier": "5w+",
+      "note": "",
+      "category": "",
+      "pending": false,
+      "brandPending": false,
+      "pendingMonth": "",
+      "createdAt": "2026-05-20T17:09:41.118Z"
+    },
+    {
+      "id": "515f54d8-7ce1-47ce-82df-ba581e21d483",
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "date": "2026-05-23",
+      "brand": "Perdays",
+      "shortBrand": "Perdays",
+      "kol": "番茄罐头ChloMato",
+      "target": 1,
+      "tier": "1w+",
+      "note": "",
+      "category": "",
+      "pending": false,
+      "brandPending": false,
+      "pendingMonth": "",
+      "createdAt": "2026-05-20T17:09:41.118Z"
     }
   ],
   "benchmarks": {},
   "remarks": {},
-  "updatedAt": "2026-05-20T17:06:28.070Z"
+  "updatedAt": "2026-05-20T17:09:41.420Z"
 }

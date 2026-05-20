@@ -1126,91 +1126,6 @@
       "brandPending": false,
       "pendingMonth": "",
       "createdAt": "2026-05-20T17:58:45.616Z"
-    },
-    {
-      "id": "f4b7f7ab-e516-4cd0-a6a8-079f7532cf4c",
-      "am": "am_xiaoxi",
-      "amName": "小西(袁丽娟)",
-      "date": "2026-05-22",
-      "brand": "VITAGrow唯他瑞海外旗舰店",
-      "shortBrand": "VITAGrow唯他瑞",
-      "kol": "美朱迪儿",
-      "target": 5,
-      "tier": "5w+",
-      "note": "",
-      "category": "",
-      "pending": false,
-      "brandPending": false,
-      "pendingMonth": "",
-      "createdAt": "2026-05-20T18:03:37.782Z"
-    },
-    {
-      "id": "bfe43eb9-bfa7-44e7-a445-19c2e93a8ea7",
-      "am": "am_xiaoxi",
-      "amName": "小西(袁丽娟)",
-      "date": "2026-05-22",
-      "brand": "美繁旗舰店",
-      "shortBrand": "美繁",
-      "kol": "沐白哦",
-      "target": 5,
-      "tier": "5w+",
-      "note": "",
-      "category": "",
-      "pending": false,
-      "brandPending": false,
-      "pendingMonth": "",
-      "createdAt": "2026-05-20T18:03:37.782Z"
-    },
-    {
-      "id": "23b62146-a49d-4092-9dcd-fac5504cda9d",
-      "am": "am_xiaoxi",
-      "amName": "小西(袁丽娟)",
-      "date": "2026-05-22",
-      "brand": "美繁旗舰店",
-      "shortBrand": "美繁",
-      "kol": "美朱迪儿",
-      "target": 5,
-      "tier": "5w+",
-      "note": "",
-      "category": "",
-      "pending": false,
-      "brandPending": false,
-      "pendingMonth": "",
-      "createdAt": "2026-05-20T18:03:37.782Z"
-    },
-    {
-      "id": "00f464dc-9d25-4014-b957-e8e977d0a888",
-      "am": "am_xiaoxi",
-      "amName": "小西(袁丽娟)",
-      "date": "2026-05-23",
-      "brand": "VITAGrow唯他瑞海外旗舰店",
-      "shortBrand": "VITAGrow唯他瑞",
-      "kol": "L虎妈",
-      "target": 5,
-      "tier": "5w+",
-      "note": "",
-      "category": "",
-      "pending": false,
-      "brandPending": false,
-      "pendingMonth": "",
-      "createdAt": "2026-05-20T18:03:37.782Z"
-    },
-    {
-      "id": "e6f98270-4b0c-45a7-abd9-406240e63158",
-      "am": "am_xiaoxi",
-      "amName": "小西(袁丽娟)",
-      "date": "2026-05-23",
-      "brand": "Perdays海外旗舰店",
-      "shortBrand": "Perdays",
-      "kol": "番茄罐头ChloMato",
-      "target": 5,
-      "tier": "5w+",
-      "note": "",
-      "category": "",
-      "pending": false,
-      "brandPending": false,
-      "pendingMonth": "",
-      "createdAt": "2026-05-20T18:03:37.783Z"
     }
   ],
   "benchmarks": {
@@ -1223,10 +1138,15 @@
     "Kiwiherb海外旗舰店": "45w+",
     "美繁旗舰店": "50w+",
     "纽瑞优Neurio旗舰店": "150w+",
-    "Ddrops滴卓思海外旗舰店": "100w+"
+    "Ddrops滴卓思海外旗舰店": "100w+",
+    "Perdays海外旗舰店": "35w+",
+    "许尤佳旗舰店": "100w+",
+    "a2营养支持品旗舰店": "200w+",
+    "D-Cal海外官方旗舰店": "200w+",
+    "STRAFBRG舒适宝旗舰店": "25w+"
   },
   "remarks": {
     "Ddrops滴卓思海外旗舰店": "番茄50w+"
   },
-  "updatedAt": "2026-05-20T18:03:46.113Z"
+  "updatedAt": "2026-05-20T18:06:12.131Z"
 }

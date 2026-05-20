@@ -1126,16 +1126,33 @@
       "brandPending": false,
       "pendingMonth": "",
       "createdAt": "2026-05-20T17:58:45.616Z"
+    },
+    {
+      "id": "659851a7-3e2e-4ca6-917e-a70465522361",
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "date": "",
+      "brand": "纽瑞优Neurio旗舰店",
+      "shortBrand": "纽瑞优",
+      "kol": "闹妈",
+      "target": 50,
+      "tier": "50w+",
+      "note": "",
+      "category": "",
+      "pending": true,
+      "brandPending": false,
+      "pendingMonth": "6月",
+      "createdAt": "2026-05-20T18:36:29.863Z"
     }
   ],
   "benchmarks": {
     "VITAGrow唯他瑞海外旗舰店": "400w+",
     "英珞维 Innovite旗舰店": "200w+",
     "Doctor jepson旗舰店": "100w+",
-    "KINGSLAC海外旗舰店": "30w+",
+    "KINGSLAC海外旗舰店": "100w+",
     "Neuromins旗舰店": "200w+",
-    "天然博士旗舰店": "150w+",
-    "Kiwiherb海外旗舰店": "45w+",
+    "天然博士旗舰店": "100w+",
+    "Kiwiherb海外旗舰店": "60w+",
     "美繁旗舰店": "50w+",
     "纽瑞优Neurio旗舰店": "150w+",
     "Ddrops滴卓思海外旗舰店": "100w+",
@@ -1146,7 +1163,16 @@
     "STRAFBRG舒适宝旗舰店": "25w+"
   },
   "remarks": {
-    "Ddrops滴卓思海外旗舰店": "番茄50w+"
+    "Ddrops滴卓思海外旗舰店": "番茄50w+",
+    "天然博士旗舰店": "⬆️目标提到150w+",
+    "KINGSLAC海外旗舰店": "⚠️",
+    "VITAGrow唯他瑞海外旗舰店": "✅10w+",
+    "英珞维 Innovite旗舰店": "✅25w+",
+    "Doctor jepson旗舰店": "⚠️",
+    "Kiwiherb海外旗舰店": "⚠️",
+    "美繁旗舰店": "⬆️",
+    "STRAFBRG舒适宝旗舰店": "店播⬆️",
+    "D-Cal海外官方旗舰店": "⚠️"
   },
-  "updatedAt": "2026-05-20T18:06:12.131Z"
+  "updatedAt": "2026-05-20T18:37:41.573Z"
 }

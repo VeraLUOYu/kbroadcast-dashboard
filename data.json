@@ -673,8 +673,8 @@
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
       "date": "2026-06-07",
-      "brand": "D-Cal",
-      "shortBrand": "D-Cal",
+      "brand": "D-Cal旗舰店",
+      "shortBrand": "D-Cal旗舰…",
       "kol": "小幸幸",
       "target": 50,
       "tier": "50w+",
@@ -1143,5 +1143,5 @@
   "remarks": {
     "Ddrops滴卓思海外旗舰店": "番茄50w+"
   },
-  "updatedAt": "2026-05-20T17:48:49.365Z"
+  "updatedAt": "2026-05-20T17:48:57.573Z"
 }

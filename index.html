@@ -369,7 +369,7 @@ textarea:focus{border-color:#ff2442;}
 
     <div class="modal-footer">
       <button class="btn-cancel" onclick="closeModal()">取消</button>
-      <button class="btn-save" id="btnSave" onclick="saveModal()" style="background:#374151;">解析预览</button>
+      <button class="btn-save" id="btnSave" onclick="(function(){const t=document.getElementById('tabText');const m=document.getElementById('tabManual');if(t&&t.classList.contains('active'))saveFromText();else if(m&&m.classList.contains('active'))saveManual();else saveFromUpload();})()" style="background:#374151;">解析预览</button>
       <button class="btn-save" id="btnUpload" onclick="confirmImport()" disabled
         style="background:#d1d5db;color:#9ca3af;cursor:not-allowed;" title="请先点解析预览">上传</button>
       <button class="btn-save" id="btnManualSave" onclick="saveManual()" style="display:none;">保存</button>

@@ -57,13 +57,14 @@
       "am": "am_xiaoxi",
       "date": "2026-05-26",
       "brand": "VITAGrow唯他瑞海外旗舰店",
-      "shortBrand": "VITAGrow",
+      "shortBrand": "VITAGro…",
       "kol": "开心妈妈学习宝藏",
-      "target": 50,
-      "tier": "50w+",
+      "target": 5,
+      "tier": "5w+",
       "note": "",
       "category": "奶粉/辅食/营养品/零食",
-      "createdAt": "2026-05-16T21:00:00+08:00"
+      "createdAt": "2026-05-16T21:00:00+08:00",
+      "pending": false
     },
     {
       "id": "4c64ca1d-558a-4f58-a223-57e08d6c7541",
@@ -1028,5 +1029,5 @@
   ],
   "benchmarks": {},
   "remarks": {},
-  "updatedAt": "2026-05-20T17:10:56.357Z"
+  "updatedAt": "2026-05-20T17:11:08.886Z"
 }

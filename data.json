@@ -975,23 +975,6 @@
       "createdAt": "2026-05-20T17:02:29.503Z"
     },
     {
-      "id": "51840613-cb82-440d-9926-3cc3893b9b78",
-      "am": "",
-      "amName": "",
-      "date": "",
-      "brand": "待定",
-      "shortBrand": "待定",
-      "kol": "买手番茄罐头",
-      "target": 100,
-      "tier": "100w+",
-      "note": "补剂专场已定商家Ddrops",
-      "category": "",
-      "pending": true,
-      "brandPending": true,
-      "pendingMonth": "6月",
-      "createdAt": "2026-05-20T17:17:31.736Z"
-    },
-    {
       "id": "789eca7b-309d-41a5-afaf-87e84330a1c6",
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
@@ -1011,5 +994,5 @@
   ],
   "benchmarks": {},
   "remarks": {},
-  "updatedAt": "2026-05-20T17:25:19.154Z"
+  "updatedAt": "2026-05-20T17:25:36.123Z"
 }

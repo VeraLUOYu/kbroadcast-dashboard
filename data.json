@@ -1126,40 +1126,6 @@
       "brandPending": true,
       "pendingMonth": "",
       "createdAt": "2026-05-20T17:33:43.686Z"
-    },
-    {
-      "id": "af34dfce-8a4d-459f-9c3b-5fa58bbd7ac9",
-      "am": "am_xiaoxi",
-      "amName": "小西(袁丽娟)",
-      "date": "2026-05-23",
-      "brand": "Perdays海外旗舰店",
-      "shortBrand": "perdays",
-      "kol": "番茄罐头",
-      "target": 5,
-      "tier": "5w+",
-      "note": "",
-      "category": "",
-      "pending": false,
-      "brandPending": false,
-      "pendingMonth": "",
-      "createdAt": "2026-05-20T17:46:42.482Z"
-    },
-    {
-      "id": "dd430717-ca8c-476d-82a0-0645a02fb096",
-      "am": "am_xiaoxi",
-      "amName": "小西(袁丽娟)",
-      "date": "2026-05-25",
-      "brand": "D-Cal海外官方旗舰店",
-      "shortBrand": "D-cal",
-      "kol": "南北麻麻",
-      "target": 50,
-      "tier": "50w+",
-      "note": "",
-      "category": "",
-      "pending": false,
-      "brandPending": false,
-      "pendingMonth": "",
-      "createdAt": "2026-05-20T17:47:15.584Z"
     }
   ],
   "benchmarks": {
@@ -1170,10 +1136,11 @@
     "Neuromins旗舰店": "200w+",
     "天然博士旗舰店": "150w+",
     "Kiwiherb海外旗舰店": "45w+",
-    "美繁旗舰店": "50w+"
+    "美繁旗舰店": "50w+",
+    "D-Cal海外官方旗舰店": "200w+"
   },
   "remarks": {
     "Ddrops滴卓思海外旗舰店": "番茄50w+"
   },
-  "updatedAt": "2026-05-20T17:47:15.888Z"
+  "updatedAt": "2026-05-20T17:47:22.941Z"
 }

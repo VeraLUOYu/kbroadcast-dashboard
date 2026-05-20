@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": "85dc6a5a-a7a2-46bc-930f-160409ea906a",
+      "id": "524f60dc-569e-431b-8b1a-7521400ac263",
       "date": "2026-05-02",
       "brand": "英珞维 Innovite旗舰店",
       "shortBrand": "英珞维 Innovite旗舰店",
@@ -16,7 +16,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "e0cb48c4-fbef-487d-96d2-a6535d0f2fb9",
+      "id": "7b9856e2-2e24-4638-bf83-145def80ee11",
       "date": "2026-05-03",
       "brand": "VITAGrow唯他瑞海外旗舰店",
       "shortBrand": "VITAGrow唯他瑞海外旗舰店",
@@ -31,7 +31,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "de15628b-35f7-46f6-bab7-e4a844483f0d",
+      "id": "6e3b925e-ec61-4489-a124-d41bdd5f84a3",
       "date": "2026-05-03",
       "brand": "纽瑞优Neurio旗舰店",
       "shortBrand": "纽瑞优Neurio旗舰店",
@@ -46,7 +46,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "f612d28e-a8b0-4f44-9988-de7bc1c49b71",
+      "id": "597e1860-fcf0-4742-8bfe-dc07a2bec4fe",
       "date": "2026-05-03",
       "brand": "纽瑞优Neurio旗舰店",
       "shortBrand": "纽瑞优Neurio旗舰店",
@@ -61,7 +61,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "4382771c-85f8-4159-8239-3abe71cf3a97",
+      "id": "d1f00455-fd2c-4649-8536-3a72dd07eb67",
       "date": "2026-05-05",
       "brand": "美繁旗舰店",
       "shortBrand": "美繁旗舰店",
@@ -76,7 +76,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "915a5b44-4ca8-453b-8a03-93932cb24c35",
+      "id": "09946ad5-0819-45d5-a55c-0d3e893abb99",
       "date": "2026-05-06",
       "brand": "D-Cal海外官方旗舰店",
       "shortBrand": "D-Cal海外官方旗舰店",
@@ -91,7 +91,22 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "def579c3-4f71-4c61-85c4-87a5d61f1d0a",
+      "id": "cc590396-d875-4e77-9a03-0382d16dc737",
+      "date": "2026-05-06",
+      "brand": "天然博士旗舰店",
+      "shortBrand": "天然博士旗舰店",
+      "kol": "番茄罐头ChloMato",
+      "tier": "10w+",
+      "target": 10,
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "note": "",
+      "pending": false,
+      "brandPending": false,
+      "createdAt": "2026-05-20T14:00:00Z"
+    },
+    {
+      "id": "cba5593c-7257-4307-ade1-4453a81c2fbd",
       "date": "2026-05-06",
       "brand": "英珞维 Innovite旗舰店",
       "shortBrand": "英珞维 Innovite旗舰店",
@@ -106,7 +121,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "8328abb8-04de-4c9c-8484-af39d780a36e",
+      "id": "c897836f-36dc-421f-a987-82b5c4a9c53d",
       "date": "2026-05-07",
       "brand": "VITAGrow唯他瑞海外旗舰店",
       "shortBrand": "VITAGrow唯他瑞海外旗舰店",
@@ -121,7 +136,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "2da3d00a-7747-4321-81a7-3b82b3b308ae",
+      "id": "a1b6770f-905b-4185-b266-c10d33b53162",
       "date": "2026-05-07",
       "brand": "D-Cal海外官方旗舰店",
       "shortBrand": "D-Cal海外官方旗舰店",
@@ -136,7 +151,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "fbc55af5-cb2e-4cb3-a696-3556198a7399",
+      "id": "9a73e125-4699-448f-badd-9826d39ad65a",
       "date": "2026-05-09",
       "brand": "VITAGrow唯他瑞海外旗舰店",
       "shortBrand": "VITAGrow唯他瑞海外旗舰店",
@@ -151,7 +166,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "5ea69b18-82dc-4b0d-8988-2020bafc145a",
+      "id": "dfdead8d-c7cd-41a8-a5bd-9c09d9af3a3e",
       "date": "2026-05-09",
       "brand": "D-Cal海外官方旗舰店",
       "shortBrand": "D-Cal海外官方旗舰店",
@@ -166,7 +181,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "2a090f83-e093-4333-961a-8e8b37d2cec0",
+      "id": "6b2f3cdc-d0ed-4b1a-bbf0-39fbfab4da84",
       "date": "2026-05-09",
       "brand": "天然博士旗舰店",
       "shortBrand": "天然博士旗舰店",
@@ -181,7 +196,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "0822cb72-0b2b-4ff5-a1c9-40d6b59d6bde",
+      "id": "5be3011d-f3cb-4839-a6f5-1732f641369b",
       "date": "2026-05-11",
       "brand": "VITAGrow唯他瑞海外旗舰店",
       "shortBrand": "VITAGrow唯他瑞海外旗舰店",
@@ -196,7 +211,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "85d23b00-dac5-4729-9c10-acfbfc718dc8",
+      "id": "b33e17be-b379-4139-9c09-42cccc5eb1aa",
       "date": "2026-05-11",
       "brand": "英珞维 Innovite旗舰店",
       "shortBrand": "英珞维 Innovite旗舰店",
@@ -211,7 +226,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "646e5f41-4d94-4b62-b9d9-15c180b3806c",
+      "id": "18ebe10b-3bf1-4870-95ec-54ec8eec53cb",
       "date": "2026-05-12",
       "brand": "VITAGrow唯他瑞海外旗舰店",
       "shortBrand": "VITAGrow唯他瑞海外旗舰店",
@@ -226,7 +241,22 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "692f783c-16ee-41eb-bcdd-0eb41bc49cce",
+      "id": "d66a986f-b180-4e38-ad13-dfa206dd49e8",
+      "date": "2026-05-12",
+      "brand": "许尤佳旗舰店",
+      "shortBrand": "许尤佳旗舰店",
+      "kol": "宝儿麻麻",
+      "tier": "5w+",
+      "target": 5,
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "note": "",
+      "pending": false,
+      "brandPending": false,
+      "createdAt": "2026-05-20T14:00:00Z"
+    },
+    {
+      "id": "c40f0836-7b43-4279-8be4-e59fee1acadd",
       "date": "2026-05-12",
       "brand": "Kiwiherb海外旗舰店",
       "shortBrand": "Kiwiherb海外旗舰店",
@@ -241,7 +271,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "3dc26ea8-19e1-4212-bba5-8b4633bc404b",
+      "id": "5d4d99b1-45ac-432b-b165-21eb7c52430b",
       "date": "2026-05-13",
       "brand": "天然博士旗舰店",
       "shortBrand": "天然博士旗舰店",
@@ -256,37 +286,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "2da61795-08db-40fc-9299-3bbb37a0cc2d",
-      "date": "2026-05-18",
-      "brand": "VITAGrow唯他瑞海外旗舰店",
-      "shortBrand": "VITAGrow唯他瑞海外旗舰店",
-      "kol": "怪阿姨很可爱",
-      "tier": "5w+",
-      "target": 5,
-      "am": "am_xiaoxi",
-      "amName": "小西(袁丽娟)",
-      "note": "",
-      "pending": false,
-      "brandPending": false,
-      "createdAt": "2026-05-20T14:00:00Z"
-    },
-    {
-      "id": "31454cde-6683-44fe-87b6-6a7ee75e7850",
-      "date": "2026-05-18",
-      "brand": "天然博士旗舰店",
-      "shortBrand": "天然博士旗舰店",
-      "kol": "番茄罐头ChloMato",
-      "tier": "10w+",
-      "target": 10,
-      "am": "am_xiaoxi",
-      "amName": "小西(袁丽娟)",
-      "note": "",
-      "pending": false,
-      "brandPending": false,
-      "createdAt": "2026-05-20T14:00:00Z"
-    },
-    {
-      "id": "8c634d8b-41d2-4094-9505-a413b348cc0b",
+      "id": "2354b9eb-aed9-4858-b1a6-61c74dbe8247",
       "date": "2026-05-18",
       "brand": "VITAGrow唯他瑞海外旗舰店",
       "shortBrand": "VITAGrow唯他瑞海外旗舰店",
@@ -301,7 +301,37 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "350b2b2a-5701-4258-9e0d-e7f34563b3d3",
+      "id": "3ce16aad-fb69-4dd6-b85f-8ceed7747c22",
+      "date": "2026-05-18",
+      "brand": "天然博士旗舰店",
+      "shortBrand": "天然博士旗舰店",
+      "kol": "番茄罐头ChloMato",
+      "tier": "10w+",
+      "target": 10,
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "note": "",
+      "pending": false,
+      "brandPending": false,
+      "createdAt": "2026-05-20T14:00:00Z"
+    },
+    {
+      "id": "fce8e547-a88d-4002-814f-150282631d60",
+      "date": "2026-05-18",
+      "brand": "VITAGrow唯他瑞海外旗舰店",
+      "shortBrand": "VITAGrow唯他瑞海外旗舰店",
+      "kol": "一一妈妈呀",
+      "tier": "5w+",
+      "target": 5,
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "note": "",
+      "pending": false,
+      "brandPending": false,
+      "createdAt": "2026-05-20T14:00:00Z"
+    },
+    {
+      "id": "4f62d206-9cf1-4596-a076-d845fcfc63ca",
       "date": "2026-05-19",
       "brand": "Ddrops滴卓思海外旗舰店",
       "shortBrand": "Ddrops滴卓思海外旗舰店",
@@ -316,7 +346,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "ed2d65bd-a479-49b7-8efc-b115bf221ef0",
+      "id": "96d23bfe-46dc-4a28-be69-8b3c68d592bb",
       "date": "2026-05-19",
       "brand": "美繁旗舰店",
       "shortBrand": "美繁旗舰店",
@@ -331,7 +361,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "657fc93a-5104-49dd-b689-c1a38ec7a43e",
+      "id": "b2571cd0-0a26-4c41-8a54-af784b7ecc93",
       "date": "2026-05-19",
       "brand": "VITAGrow唯他瑞海外旗舰店",
       "shortBrand": "VITAGrow唯他瑞海外旗舰店",
@@ -346,7 +376,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "1357b39b-3c2d-40b3-a975-c387fc80897e",
+      "id": "871235c7-21ef-40b5-b99b-966c3d71702e",
       "date": "2026-05-20",
       "brand": "Perdays海外旗舰店",
       "shortBrand": "Perdays海外旗舰店",
@@ -361,7 +391,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "0ea256c3-4210-4f01-9f94-9287fca6b119",
+      "id": "1cb4bad5-4dd5-4be2-b35f-9e96ebd963e1",
       "date": "2026-05-20",
       "brand": "Perdays海外旗舰店",
       "shortBrand": "Perdays海外旗舰店",
@@ -376,7 +406,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "50946b7a-7f1e-414c-b3ff-b5b84d508fe5",
+      "id": "09745c37-c455-4d53-88a4-59b27281334a",
       "date": "2026-05-21",
       "brand": "Perdays海外旗舰店",
       "shortBrand": "Perdays海外旗舰店",
@@ -391,7 +421,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "107d6fe5-9272-49a2-b51f-897b07833948",
+      "id": "5f067c12-5308-492c-a1c8-4684f0a03e0c",
       "date": "2026-05-22",
       "brand": "KINGSLAC海外旗舰店",
       "shortBrand": "KINGSLAC海外旗舰店",
@@ -406,7 +436,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "41d801f3-d08b-4770-9bc4-7a07e5b9d26d",
+      "id": "c51c3e4d-5c50-43db-936d-df801e378af9",
       "date": "2026-05-22",
       "brand": "Neuromins旗舰店",
       "shortBrand": "Neuromins旗舰店",
@@ -421,7 +451,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "88f048a2-5a57-4978-9340-669630587038",
+      "id": "8600135c-ad38-4105-9b8e-1f40fb9104a0",
       "date": "2026-05-22",
       "brand": "天然博士旗舰店",
       "shortBrand": "天然博士旗舰店",
@@ -436,7 +466,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "98ea9a48-9e89-402a-8184-9020cfdaed45",
+      "id": "2167a5f5-dcbb-4051-845a-9a32869574c5",
       "date": "2026-05-22",
       "brand": "天然博士旗舰店",
       "shortBrand": "天然博士旗舰店",
@@ -451,7 +481,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "429c51f4-bf6c-4285-b0a2-1c689bbaf8d0",
+      "id": "546baf58-92ff-4322-bc93-1c9465998eb7",
       "date": "2026-05-22",
       "brand": "a2营养支持品旗舰店",
       "shortBrand": "a2营养支持品旗舰店",
@@ -466,7 +496,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "8bcf7b42-c829-402d-a797-82f06a3bc6dd",
+      "id": "14ea5a5f-1b95-4acd-9a59-e24ebae32ac2",
       "date": "2026-05-22",
       "brand": "美繁旗舰店",
       "shortBrand": "美繁旗舰店",
@@ -481,7 +511,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "6f2922a6-b39e-4944-9e5d-9d4baaf04362",
+      "id": "d3513f28-879f-4318-ad4b-2dd1db1e970e",
       "date": "2026-05-22",
       "brand": "VITAGrow唯他瑞海外旗舰店",
       "shortBrand": "VITAGrow唯他瑞海外旗舰店",
@@ -496,7 +526,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "7ba7fbf8-5c23-4f27-9738-e37c691dd735",
+      "id": "8fcced1b-9fc6-4cbb-8f5f-944b719bed2e",
       "date": "2026-05-23",
       "brand": "VITAGrow唯他瑞海外旗舰店",
       "shortBrand": "VITAGrow唯他瑞海外旗舰店",
@@ -511,7 +541,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "8b399e0c-59b6-4331-9954-9235b2a8a180",
+      "id": "3f02f43f-5afd-4fe6-8133-f25bd7136c85",
       "date": "2026-05-23",
       "brand": "纽瑞优Neurio旗舰店",
       "shortBrand": "纽瑞优Neurio旗舰店",
@@ -526,7 +556,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "6c9d5dea-7a4c-4859-826f-a7bf977b653a",
+      "id": "a2bb3fdf-5636-4946-8007-984e2f18caaf",
       "date": "2026-05-23",
       "brand": "Neuromins旗舰店",
       "shortBrand": "Neuromins旗舰店",
@@ -541,7 +571,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "fcd900d1-f6e0-436c-b2b0-9967123d7fc4",
+      "id": "c452f030-bab6-4227-b743-f402dfb2cc13",
       "date": "2026-05-23",
       "brand": "许尤佳旗舰店",
       "shortBrand": "许尤佳旗舰店",
@@ -556,7 +586,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "ac543a16-7c59-48c0-a172-1883e8c769e4",
+      "id": "d8cc770b-662a-4c24-b475-a2c23b63dce5",
       "date": "2026-05-23",
       "brand": "VITAGrow唯他瑞海外旗舰店",
       "shortBrand": "VITAGrow唯他瑞海外旗舰店",
@@ -571,7 +601,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "a72f6ed7-c3f8-49d1-b777-da5f0b7b6e81",
+      "id": "43088b71-aea3-4cd0-8fc2-b1c94b69bd21",
       "date": "2026-05-23",
       "brand": "Perdays海外旗舰店",
       "shortBrand": "Perdays海外旗舰店",
@@ -586,7 +616,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "1d3d38d2-2f5e-490d-a90c-8d444765145d",
+      "id": "6833809e-8d52-47d6-9dd7-11b8ff9386bd",
       "date": "2026-05-25",
       "brand": "D-Cal海外官方旗舰店",
       "shortBrand": "D-Cal海外官方旗舰店",
@@ -601,7 +631,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "5a3b6a25-4134-44de-972c-351b92f456eb",
+      "id": "5754e300-8c91-46cd-9f67-31108e4b3f4d",
       "date": "2026-05-26",
       "brand": "VITAGrow唯他瑞海外旗舰店",
       "shortBrand": "VITAGrow唯他瑞海外旗舰店",
@@ -616,7 +646,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "701c4068-9768-4ba6-98fa-729ed0110c73",
+      "id": "36dbe373-1a3f-4489-a289-73185fb54510",
       "date": "2026-05-26",
       "brand": "VITAGrow唯他瑞海外旗舰店",
       "shortBrand": "VITAGrow唯他瑞海外旗舰店",
@@ -631,22 +661,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "2db5a026-8777-4eb2-a7e6-fdef290fa91d",
-      "date": "2026-05-26",
-      "brand": "许尤佳旗舰店",
-      "shortBrand": "许尤佳旗舰店",
-      "kol": "lucky小幸幸",
-      "tier": "100w+",
-      "target": 100,
-      "am": "am_xiaoxi",
-      "amName": "小西(袁丽娟)",
-      "note": "",
-      "pending": false,
-      "brandPending": false,
-      "createdAt": "2026-05-20T14:00:00Z"
-    },
-    {
-      "id": "ef31549e-dea8-48e2-908d-7bd75ca5c754",
+      "id": "e3eed1a4-9d71-4565-a6a3-b88823beea7d",
       "date": "2026-05-27",
       "brand": "VITAGrow唯他瑞海外旗舰店",
       "shortBrand": "VITAGrow唯他瑞海外旗舰店",
@@ -661,7 +676,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "5e31f6dc-2e67-45fc-a6fb-51fd839e97e3",
+      "id": "1db5c448-d922-4c76-8ca4-1a5841fbd1fa",
       "date": "2026-05-28",
       "brand": "a2营养支持品旗舰店",
       "shortBrand": "a2营养支持品旗舰店",
@@ -676,7 +691,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "21b0bd90-7095-4594-b3f9-53d0a1f1f8f1",
+      "id": "9115fccc-8a30-4975-8bb7-907813cb6def",
       "date": "2026-05-29",
       "brand": "天然博士旗舰店",
       "shortBrand": "天然博士旗舰店",
@@ -691,7 +706,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "675aefd2-d3c6-4a31-8b2e-b6e2dfb058e7",
+      "id": "fbeba919-5602-4be7-8df9-e69933100dad",
       "date": "2026-05-29",
       "brand": "许尤佳旗舰店",
       "shortBrand": "许尤佳旗舰店",
@@ -706,7 +721,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "9093923a-5eeb-4c9f-8945-4eafcd60d51e",
+      "id": "41edddde-50c6-42f7-83b9-dbf76fe6bef7",
       "date": "2026-05-30",
       "brand": "Neuromins旗舰店",
       "shortBrand": "Neuromins旗舰店",
@@ -721,7 +736,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "e1818432-4db0-4c4d-b6df-f55398d0bd14",
+      "id": "b1fb3fbe-fd3f-44b0-a785-c173072b563d",
       "date": "2026-05-30",
       "brand": "VITAGrow唯他瑞海外旗舰店",
       "shortBrand": "VITAGrow唯他瑞海外旗舰店",
@@ -736,7 +751,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "91938af5-2e96-41f1-9bb2-dd77572f88b8",
+      "id": "79b5f01a-e36a-4638-844a-3381cbe63713",
       "date": "2026-05-31",
       "brand": "D-Cal海外官方旗舰店",
       "shortBrand": "D-Cal海外官方旗舰店",
@@ -751,7 +766,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "e5724382-32aa-4f50-85ae-ef2f303fbef7",
+      "id": "d5c4f822-9f68-488d-a431-be6c33fb927a",
       "date": "2026-06-01",
       "brand": "英珞维 Innovite旗舰店",
       "shortBrand": "英珞维 Innovite旗舰店",
@@ -766,7 +781,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "94192b46-7931-4212-8afe-deb44a16b9ac",
+      "id": "86a32bf3-f422-4957-99b8-eec58258063e",
       "date": "2026-06-01",
       "brand": "英珞维 Innovite旗舰店",
       "shortBrand": "英珞维 Innovite旗舰店",
@@ -781,7 +796,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "eec33733-44ad-44b6-8ce2-4e9838e8cb1c",
+      "id": "3114b006-5e7f-4cd9-a0cd-3c767bc9e6f3",
       "date": "2026-06-01",
       "brand": "Kiwiherb海外旗舰店",
       "shortBrand": "Kiwiherb海外旗舰店",
@@ -796,11 +811,11 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "d6a61af3-326d-4f90-8832-fb3558cbf1ce",
+      "id": "58c603e3-a629-4e3d-aaee-c4240405ba11",
       "date": "2026-06-01",
       "brand": "Perdays海外旗舰店",
       "shortBrand": "Perdays海外旗舰店",
-      "kol": "番茄罐头ChloMato",
+      "kol": "番茄罐头chlomato",
       "tier": "5w+",
       "target": 5,
       "am": "am_xiaoxi",
@@ -811,7 +826,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "57f830ef-889d-4350-80df-80b237223462",
+      "id": "c200b9e5-4ef8-4c53-bc08-b0935deb971e",
       "date": "2026-06-15",
       "brand": "VITAGrow唯他瑞海外旗舰店",
       "shortBrand": "VITAGrow唯他瑞海外旗舰店",
@@ -826,7 +841,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "eae3c7b9-8246-4bc3-bb14-e6d7623aa086",
+      "id": "7e664184-7a76-415e-a190-843ed9a377cf",
       "date": "2026-06-15",
       "brand": "英珞维 Innovite旗舰店",
       "shortBrand": "英珞维 Innovite旗舰店",
@@ -841,7 +856,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "a7babe97-fae0-4185-a06d-72f93b6fd2e1",
+      "id": "6db326c1-5528-417f-9f03-e5a9fb88ab78",
       "date": "2026-06-15",
       "brand": "Ddrops滴卓思海外旗舰店",
       "shortBrand": "Ddrops滴卓思海外旗舰店",
@@ -856,7 +871,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "0fb96827-808e-4100-ab8d-108ba2cb8024",
+      "id": "81bf467a-6930-4680-96be-3b3f43e27388",
       "date": "2026-06-15",
       "brand": "Neuromins旗舰店",
       "shortBrand": "Neuromins旗舰店",
@@ -871,7 +886,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "10053835-363f-400c-a066-27a7e59183d9",
+      "id": "afa9aaac-4cc6-4253-999e-1972ad3deee4",
       "date": "2026-06-15",
       "brand": "天然博士旗舰店",
       "shortBrand": "天然博士旗舰店",
@@ -886,7 +901,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "8cf09de7-9345-4c91-8aec-4d506ee20bcb",
+      "id": "4a1e9b27-441e-41bb-bc8d-46ef243c405c",
       "date": "2026-06-16",
       "brand": "Doctor jepson旗舰店",
       "shortBrand": "Doctor jepson旗舰店",
@@ -901,7 +916,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "02a2a2c0-b4e8-4100-b3f3-32b11825ae21",
+      "id": "df2d64b3-dba7-49aa-99f9-e8500ab5ea55",
       "date": "2026-06-16",
       "brand": "Ddrops滴卓思海外旗舰店",
       "shortBrand": "Ddrops滴卓思海外旗舰店",
@@ -916,7 +931,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "16f7f5e8-5f8c-48d9-84f3-91cfe0abb36c",
+      "id": "00654f03-3e24-497f-8f5f-fea628489500",
       "date": "2026-06-16",
       "brand": "Neuromins旗舰店",
       "shortBrand": "Neuromins旗舰店",
@@ -931,7 +946,67 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "a645f09a-052b-4937-b80c-2bcbc66483a7",
+      "id": "d2f2862f-a33c-4ac7-aa71-9e0e78aae558",
+      "date": "2026-06-18",
+      "brand": "VITAGrow唯他瑞海外旗舰店",
+      "shortBrand": "VITAGrow唯他瑞海外旗舰店",
+      "kol": "怪阿姨很可爱",
+      "tier": "5w+",
+      "target": 5,
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "note": "",
+      "pending": false,
+      "brandPending": false,
+      "createdAt": "2026-05-20T14:00:00Z"
+    },
+    {
+      "id": "a695e52d-7111-444b-bc13-790356f4d23b",
+      "date": "2026-06-18",
+      "brand": "天然博士旗舰店",
+      "shortBrand": "天然博士旗舰店",
+      "kol": "番茄罐头ChloMato",
+      "tier": "10w+",
+      "target": 10,
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "note": "",
+      "pending": false,
+      "brandPending": false,
+      "createdAt": "2026-05-20T14:00:00Z"
+    },
+    {
+      "id": "807fa714-f315-48a8-98a2-d3945f0fbbe7",
+      "date": "2026-06-26",
+      "brand": "许尤佳旗舰店",
+      "shortBrand": "许尤佳旗舰店",
+      "kol": "lucky小幸幸",
+      "tier": "100w+",
+      "target": 100,
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "note": "",
+      "pending": false,
+      "brandPending": false,
+      "createdAt": "2026-05-20T14:00:00Z"
+    },
+    {
+      "id": "11969004-fd96-4205-82bc-1d2f30e37b7a",
+      "date": "2026-06-29",
+      "brand": "许尤佳旗舰店",
+      "shortBrand": "许尤佳旗舰店",
+      "kol": "二胎曼仔妈",
+      "tier": "10w+",
+      "target": 10,
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "note": "",
+      "pending": false,
+      "brandPending": false,
+      "createdAt": "2026-05-20T14:00:00Z"
+    },
+    {
+      "id": "4ce34321-ea0e-4a10-868d-034d8fb6c50e",
       "date": "",
       "brand": "买手番茄罐头营养品专场目标",
       "shortBrand": "买手番茄罐头营养品专场目标",
@@ -940,13 +1015,13 @@
       "target": 100,
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
-      "note": "100w-200w",
+      "note": "已定商家Ddrops",
       "pending": true,
       "brandPending": true,
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "cdf7253b-983a-4c2d-8f37-062032445263",
+      "id": "3ad442c9-e1fb-4aef-a0e8-fa5166d2c708",
       "date": "",
       "brand": "买手iris营养品专场目标",
       "shortBrand": "买手iris营养品专场目标",
@@ -955,13 +1030,13 @@
       "target": 100,
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
-      "note": "100w-200w",
+      "note": "已定商家Ddrops",
       "pending": true,
       "brandPending": true,
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "e7c6fdf3-ddfa-4d21-a6d3-7597e36c34ed",
+      "id": "2a076654-38b5-4b3f-a588-f1be3631f629",
       "date": "",
       "brand": "天然博士旗舰店",
       "shortBrand": "天然博士旗舰店",
@@ -976,7 +1051,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "c7e854b1-bd0a-4622-bf2d-418e5ee25c87",
+      "id": "c0e7fc71-17f9-4186-9b4f-15060a7eb922",
       "date": "",
       "brand": "STRAFBRG舒适宝旗舰店",
       "shortBrand": "STRAFBRG舒适宝旗舰店",
@@ -991,7 +1066,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "0e1c36d2-346c-4f34-939b-6eee40cdd730",
+      "id": "67df20ce-826f-4cbf-8bac-84f2c0dfde12",
       "date": "2026-06-11",
       "brand": "安森妈妈营养品专场目标",
       "shortBrand": "安森妈妈营养品专场目标",
@@ -1006,7 +1081,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "f92326a4-3446-4a8b-9113-da2fc62ba07b",
+      "id": "17f0d7c6-de68-451f-b24a-ea824308c29e",
       "date": "",
       "brand": "a2营养支持品旗舰店",
       "shortBrand": "a2营养支持品旗舰店",
@@ -1021,7 +1096,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "9192c197-2824-40f1-a889-3c56cf6b4276",
+      "id": "e29edac8-6c32-469c-b85d-936d0d20d30d",
       "date": "",
       "brand": "Kiwiherb海外旗舰店",
       "shortBrand": "Kiwiherb海外旗舰店",
@@ -1036,7 +1111,7 @@
       "createdAt": "2026-05-20T14:00:00Z"
     },
     {
-      "id": "9a2a352d-4b86-48c2-af82-cae73454e79a",
+      "id": "32301cdf-8469-4104-bd22-bb0cc138dbb0",
       "date": "",
       "brand": "卡大宝宝营养品专场",
       "shortBrand": "卡大宝宝营养品专场",
@@ -1045,7 +1120,7 @@
       "target": 10,
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
-      "note": "30w-50w",
+      "note": "品牌待定",
       "pending": true,
       "brandPending": true,
       "createdAt": "2026-05-20T14:00:00Z"
@@ -1053,5 +1128,5 @@
   ],
   "benchmarks": {},
   "remarks": {},
-  "updatedAt": "2026-05-20T14:40:00Z"
+  "updatedAt": "2026-05-20T15:00:00Z"
 }

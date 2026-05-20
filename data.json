@@ -1128,13 +1128,13 @@
       "createdAt": "2026-05-20T17:33:43.686Z"
     },
     {
-      "id": "c54413a9-c762-4e5d-b292-72a87ece4666",
+      "id": "af34dfce-8a4d-459f-9c3b-5fa58bbd7ac9",
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
-      "date": "2026-05-22",
-      "brand": "美繁旗舰店",
-      "shortBrand": "美繁",
-      "kol": "美朱迪儿",
+      "date": "2026-05-23",
+      "brand": "Perdays海外旗舰店",
+      "shortBrand": "perdays",
+      "kol": "番茄罐头",
       "target": 5,
       "tier": "5w+",
       "note": "",
@@ -1142,24 +1142,7 @@
       "pending": false,
       "brandPending": false,
       "pendingMonth": "",
-      "createdAt": "2026-05-20T17:45:59.917Z"
-    },
-    {
-      "id": "d6a6c217-6cd1-49aa-bba8-0066ae13d383",
-      "am": "am_xiaoxi",
-      "amName": "小西(袁丽娟)",
-      "date": "2026-05-22",
-      "brand": "美繁旗舰店",
-      "shortBrand": "美繁",
-      "kol": "沫白儿",
-      "target": 5,
-      "tier": "5w+",
-      "note": "",
-      "category": "",
-      "pending": false,
-      "brandPending": false,
-      "pendingMonth": "",
-      "createdAt": "2026-05-20T17:45:59.918Z"
+      "createdAt": "2026-05-20T17:46:42.482Z"
     }
   ],
   "benchmarks": {
@@ -1175,5 +1158,5 @@
   "remarks": {
     "Ddrops滴卓思海外旗舰店": "番茄50w+"
   },
-  "updatedAt": "2026-05-20T17:46:00.222Z"
+  "updatedAt": "2026-05-20T17:46:42.784Z"
 }

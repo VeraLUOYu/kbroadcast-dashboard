@@ -975,23 +975,6 @@
       "createdAt": "2026-05-20T17:02:29.503Z"
     },
     {
-      "id": "1c43943d-5e63-490e-bac9-c55a3e602d1f",
-      "am": "am_xiaoxi",
-      "amName": "小西(袁丽娟)",
-      "date": "2026-06-13",
-      "brand": "英珞维",
-      "shortBrand": "英珞维",
-      "kol": "买手iris补剂专场",
-      "target": 100,
-      "tier": "100w+",
-      "note": "补剂专场已定商家英珞维",
-      "category": "",
-      "pending": false,
-      "brandPending": false,
-      "pendingMonth": "",
-      "createdAt": "2026-05-20T17:17:31.737Z"
-    },
-    {
       "id": "789eca7b-309d-41a5-afaf-87e84330a1c6",
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
@@ -1138,15 +1121,10 @@
     "Kiwiherb海外旗舰店": "45w+",
     "美繁旗舰店": "50w+",
     "纽瑞优Neurio旗舰店": "150w+",
-    "Ddrops滴卓思海外旗舰店": "100w+",
-    "Perdays海外旗舰店": "35w+",
-    "许尤佳旗舰店": "100w+",
-    "a2营养支持品旗舰店": "200w+",
-    "D-Cal海外官方旗舰店": "200w+",
-    "STRAFBRG舒适宝旗舰店": "20w+"
+    "Ddrops滴卓思海外旗舰店": "100w+"
   },
   "remarks": {
     "Ddrops滴卓思海外旗舰店": "番茄50w+"
   },
-  "updatedAt": "2026-05-20T17:51:09.922Z"
+  "updatedAt": "2026-05-20T17:51:40.340Z"
 }

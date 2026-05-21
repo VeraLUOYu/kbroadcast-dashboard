@@ -1143,6 +1143,23 @@
       "brandPending": false,
       "pendingMonth": "6月",
       "createdAt": "2026-05-20T18:36:29.863Z"
+    },
+    {
+      "id": "50617576-4d6d-4e5a-8abe-1605d153a9c7",
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "date": "",
+      "brand": "Doctor jepson旗舰店",
+      "shortBrand": "Doctor Jepson",
+      "kol": "时空的猫",
+      "target": 100,
+      "tier": "100w+",
+      "note": "",
+      "category": "",
+      "pending": true,
+      "brandPending": false,
+      "pendingMonth": "6月",
+      "createdAt": "2026-05-21T18:56:14.102Z"
     }
   ],
   "benchmarks": {
@@ -1173,5 +1190,5 @@
     "美繁旗舰店": "⬆️",
     "STRAFBRG舒适宝旗舰店": "店播⬆️"
   },
-  "updatedAt": "2026-05-21T04:03:00.533Z"
+  "updatedAt": "2026-05-21T18:56:14.411Z"
 }

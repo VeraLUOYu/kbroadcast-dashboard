@@ -1145,7 +1145,7 @@
       "createdAt": "2026-05-20T18:36:29.863Z"
     },
     {
-      "id": "50617576-4d6d-4e5a-8abe-1605d153a9c7",
+      "id": "6ef6e561-3f6c-4a68-a6ea-6f1a58228a18",
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
       "date": "",
@@ -1159,7 +1159,7 @@
       "pending": true,
       "brandPending": false,
       "pendingMonth": "6月",
-      "createdAt": "2026-05-21T18:56:14.102Z"
+      "createdAt": "2026-05-21T18:56:45.548Z"
     }
   ],
   "benchmarks": {
@@ -1190,5 +1190,5 @@
     "美繁旗舰店": "⬆️",
     "STRAFBRG舒适宝旗舰店": "店播⬆️"
   },
-  "updatedAt": "2026-05-21T18:56:14.411Z"
+  "updatedAt": "2026-05-21T18:56:47.079Z"
 }

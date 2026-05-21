@@ -1098,15 +1098,15 @@
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
       "date": "2026-06-13",
-      "brand": "待定",
-      "shortBrand": "待定",
+      "brand": "英珞维 Innovite旗舰店",
+      "shortBrand": "英珞维",
       "kol": "iris",
-      "target": 100,
-      "tier": "100w+",
-      "note": "已定英珞维其他待定",
+      "target": 50,
+      "tier": "50w+",
+      "note": "",
       "category": "",
-      "pending": true,
-      "brandPending": true,
+      "pending": false,
+      "brandPending": false,
       "pendingMonth": "",
       "createdAt": "2026-05-20T17:33:43.686Z"
     },
@@ -1177,6 +1177,40 @@
       "brandPending": false,
       "pendingMonth": "",
       "createdAt": "2026-05-21T18:59:53.979Z"
+    },
+    {
+      "id": "9c9ad173-08e5-4196-90ff-0a6910ff52e4",
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "date": "2026-06-13",
+      "brand": "D-Cal海外官方旗舰店",
+      "shortBrand": "D Cal",
+      "kol": "iris",
+      "target": 50,
+      "tier": "50w+",
+      "note": "",
+      "category": "",
+      "pending": false,
+      "brandPending": false,
+      "pendingMonth": "",
+      "createdAt": "2026-05-21T19:02:26.314Z"
+    },
+    {
+      "id": "4d3aa4e6-a441-48ef-84a6-d6c75dae99e0",
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "date": "2026-06-13",
+      "brand": "Ddrops滴卓思海外旗舰店",
+      "shortBrand": "Ddrops",
+      "kol": "iris",
+      "target": 50,
+      "tier": "50w+",
+      "note": "",
+      "category": "",
+      "pending": false,
+      "brandPending": false,
+      "pendingMonth": "",
+      "createdAt": "2026-05-21T19:02:39.764Z"
     }
   ],
   "benchmarks": {
@@ -1206,5 +1240,5 @@
     "美繁旗舰店": "⬆️",
     "STRAFBRG舒适宝旗舰店": "店播⬆️"
   },
-  "updatedAt": "2026-05-21T19:00:08.945Z"
+  "updatedAt": "2026-05-21T19:02:46.451Z"
 }

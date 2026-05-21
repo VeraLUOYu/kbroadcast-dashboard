@@ -1160,6 +1160,23 @@
       "brandPending": false,
       "pendingMonth": "6月",
       "createdAt": "2026-05-21T18:56:45.548Z"
+    },
+    {
+      "id": "f6cfe36f-bcbc-41a7-9bca-96e7bc3bb68c",
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "date": "2026-05-21",
+      "brand": "美繁旗舰店",
+      "shortBrand": "美繁",
+      "kol": "同传妈妈",
+      "target": 10,
+      "tier": "10w+",
+      "note": "",
+      "category": "",
+      "pending": false,
+      "brandPending": false,
+      "pendingMonth": "",
+      "createdAt": "2026-05-21T18:59:53.979Z"
     }
   ],
   "benchmarks": {
@@ -1185,10 +1202,9 @@
     "KINGSLAC海外旗舰店": "⚠️",
     "VITAGrow唯他瑞海外旗舰店": "✅10w+",
     "英珞维 Innovite旗舰店": "✅25w+",
-    "Doctor jepson旗舰店": "⚠️",
     "Kiwiherb海外旗舰店": "⚠️",
     "美繁旗舰店": "⬆️",
     "STRAFBRG舒适宝旗舰店": "店播⬆️"
   },
-  "updatedAt": "2026-05-21T18:56:47.079Z"
+  "updatedAt": "2026-05-21T19:00:08.945Z"
 }

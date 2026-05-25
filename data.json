@@ -187,13 +187,14 @@
       "am": "am_xiaoxi",
       "date": "2026-05-16",
       "brand": "Doctor Jepson旗舰店",
-      "shortBrand": "Doctor Jepson",
+      "shortBrand": "Doctor …",
       "kol": "可乐麻麻",
-      "target": 50,
-      "tier": "50w+",
+      "target": 10,
+      "tier": "10w+",
       "note": "",
       "category": "奶粉/辅食/营养品/零食",
-      "createdAt": "2026-05-16T21:00:00+08:00"
+      "createdAt": "2026-05-16T21:00:00+08:00",
+      "pending": false
     },
     {
       "id": "55dfcb57-2059-44f8-a6f2-7c7560f6f8ce",
@@ -304,26 +305,28 @@
       "am": "am_xiaoxi",
       "date": "2026-05-16",
       "brand": "Neuromins旗舰店",
-      "shortBrand": "Neuromins",
+      "shortBrand": "Neuromi…",
       "kol": "番茄罐头ChloMato",
-      "target": 50,
-      "tier": "50w+",
+      "target": 10,
+      "tier": "10w+",
       "note": "",
       "category": "奶粉/辅食/营养品/零食",
-      "createdAt": "2026-05-16T21:00:00+08:00"
+      "createdAt": "2026-05-16T21:00:00+08:00",
+      "pending": false
     },
     {
       "id": "c62e2089-5728-4308-b60e-2c94e3d1ea27",
       "am": "am_xiaoxi",
       "date": "2026-05-23",
       "brand": "Neuromins旗舰店",
-      "shortBrand": "Neuromins",
+      "shortBrand": "Neuromi…",
       "kol": "番茄罐头ChloMato",
-      "target": 50,
-      "tier": "50w+",
+      "target": 10,
+      "tier": "10w+",
       "note": "",
       "category": "奶粉/辅食/营养品/零食",
-      "createdAt": "2026-05-16T21:00:00+08:00"
+      "createdAt": "2026-05-16T21:00:00+08:00",
+      "pending": false
     },
     {
       "id": "ad587bb8-70c5-4d59-aa50-1fb7ede21fdb",
@@ -447,13 +450,14 @@
       "am": "am_xiaoxi",
       "date": "2026-05-23",
       "brand": "许尤佳旗舰店",
-      "shortBrand": "许尤佳",
+      "shortBrand": "许尤佳旗舰店",
       "kol": "二胎曼仔妈",
-      "target": 10,
-      "tier": "10w+",
+      "target": 5,
+      "tier": "5w+",
       "note": "希望推进皮哥妈",
       "category": "奶粉/辅食/营养品/零食",
-      "createdAt": "2026-05-16T21:00:00+08:00"
+      "createdAt": "2026-05-16T21:00:00+08:00",
+      "pending": false
     },
     {
       "id": "492bbb20-80d7-4d53-8099-fb171c1da0a6",
@@ -1241,5 +1245,5 @@
     "美繁旗舰店": "已达成25w+，冲80w+",
     "STRAFBRG舒适宝旗舰店": "店播⬆️"
   },
-  "updatedAt": "2026-05-25T04:00:08.899Z"
+  "updatedAt": "2026-05-25T04:07:07.617Z"
 }

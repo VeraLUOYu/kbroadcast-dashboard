@@ -473,13 +473,14 @@
       "am": "am_xiaoxi",
       "date": "2026-05-22",
       "brand": "a2营养支持品旗舰店",
-      "shortBrand": "a2",
+      "shortBrand": "a2营养支持品…",
       "kol": "小朱妈妈",
-      "target": 100,
-      "tier": "100w+",
+      "target": 50,
+      "tier": "50w+",
       "note": "",
       "category": "奶粉/辅食/营养品/零食",
-      "createdAt": "2026-05-16T21:00:00+08:00"
+      "createdAt": "2026-05-16T21:00:00+08:00",
+      "pending": false
     },
     {
       "id": "03a92ec1-6c54-4eec-81c6-8e51ef69cdba",
@@ -1240,5 +1241,5 @@
     "美繁旗舰店": "已达成25w+，冲80w+",
     "STRAFBRG舒适宝旗舰店": "店播⬆️"
   },
-  "updatedAt": "2026-05-21T19:05:13.458Z"
+  "updatedAt": "2026-05-25T04:00:08.899Z"
 }

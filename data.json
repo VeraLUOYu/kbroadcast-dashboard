@@ -464,13 +464,14 @@
       "am": "am_xiaoxi",
       "date": "2026-05-28",
       "brand": "a2营养支持品旗舰店",
-      "shortBrand": "a2",
+      "shortBrand": "a2营养支持品…",
       "kol": "南北麻麻",
-      "target": 50,
-      "tier": "50w+",
+      "target": 10,
+      "tier": "10w+",
       "note": "",
       "category": "奶粉/辅食/营养品/零食",
-      "createdAt": "2026-05-16T21:00:00+08:00"
+      "createdAt": "2026-05-16T21:00:00+08:00",
+      "pending": false
     },
     {
       "id": "df0a349e-86f1-4172-a87b-db9685a83ce7",
@@ -1223,7 +1224,7 @@
     "英珞维 Innovite旗舰店": "200w+",
     "Doctor jepson旗舰店": "100w+",
     "KINGSLAC海外旗舰店": "100w+",
-    "Neuromins旗舰店": "200w+",
+    "Neuromins旗舰店": "100w+",
     "天然博士旗舰店": "100w+",
     "Kiwiherb海外旗舰店": "60w+",
     "美繁旗舰店": "50w+",
@@ -1245,5 +1246,5 @@
     "美繁旗舰店": "已达成25w+，冲80w+",
     "STRAFBRG舒适宝旗舰店": "店播⬆️"
   },
-  "updatedAt": "2026-05-25T04:07:07.617Z"
+  "updatedAt": "2026-05-28T17:27:38.082Z"
 }

@@ -333,13 +333,14 @@
       "am": "am_xiaoxi",
       "date": "2026-05-30",
       "brand": "Neuromins旗舰店",
-      "shortBrand": "Neuromins",
+      "shortBrand": "Neuromi…",
       "kol": "番茄罐头ChloMato",
-      "target": 50,
-      "tier": "50w+",
+      "target": 5,
+      "tier": "5w+",
       "note": "",
       "category": "奶粉/辅食/营养品/零食",
-      "createdAt": "2026-05-16T21:00:00+08:00"
+      "createdAt": "2026-05-16T21:00:00+08:00",
+      "pending": false
     },
     {
       "id": "4f2bda8a-f28f-4092-a07e-c7235bf8fa8f",
@@ -1246,5 +1247,5 @@
     "美繁旗舰店": "已达成25w+，冲80w+",
     "STRAFBRG舒适宝旗舰店": "店播⬆️"
   },
-  "updatedAt": "2026-05-28T17:27:38.082Z"
+  "updatedAt": "2026-05-31T17:54:43.025Z"
 }

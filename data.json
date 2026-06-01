@@ -545,8 +545,8 @@
       "brand": "VITAGrow唯他瑞海外旗舰店",
       "shortBrand": "VITAGro…",
       "kol": "lucky小幸幸",
-      "target": 10,
-      "tier": "10w+",
+      "target": 5,
+      "tier": "5w+",
       "note": "",
       "category": "",
       "pending": false,
@@ -560,10 +560,10 @@
       "amName": "小西(袁丽娟)",
       "date": "2026-06-03",
       "brand": "纽瑞优Neurio旗舰店",
-      "shortBrand": "纽瑞优Neurio",
+      "shortBrand": "纽瑞优Neur…",
       "kol": "三胎妈妈贝卡",
-      "target": 10,
-      "tier": "10w+",
+      "target": 1,
+      "tier": "1w+",
       "note": "",
       "category": "",
       "pending": false,
@@ -1245,5 +1245,5 @@
     "美繁旗舰店": "已达成25w+，冲80w+",
     "STRAFBRG舒适宝旗舰店": "店播⬆️"
   },
-  "updatedAt": "2026-06-01T02:39:30.014Z"
+  "updatedAt": "2026-06-01T04:21:48.509Z"
 }

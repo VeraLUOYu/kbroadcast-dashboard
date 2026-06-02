@@ -526,7 +526,7 @@
       "id": "e8ef0eab-0117-4527-a4fd-e75977b6d7f7",
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "brand": "英珞维",
       "shortBrand": "英珞维",
       "kol": "南北麻麻",
@@ -766,10 +766,10 @@
       "amName": "小西(袁丽娟)",
       "date": "2026-06-11",
       "brand": "VITAGrow唯他瑞海外旗舰店",
-      "shortBrand": "VITAGrow唯他瑞",
+      "shortBrand": "VITAGro…",
       "kol": "安森妈妈",
-      "target": 100,
-      "tier": "100w+",
+      "target": 10,
+      "tier": "10w+",
       "note": "",
       "category": "",
       "pending": false,
@@ -785,8 +785,8 @@
       "brand": "英珞维",
       "shortBrand": "英珞维",
       "kol": "安森妈妈",
-      "target": 50,
-      "tier": "50w+",
+      "target": 10,
+      "tier": "10w+",
       "note": "",
       "category": "",
       "pending": false,
@@ -1033,23 +1033,6 @@
       "createdAt": "2026-05-20T17:27:39.484Z"
     },
     {
-      "id": "4237c49c-015a-463a-94e0-1baa4ce74910",
-      "am": "am_xiaoxi",
-      "amName": "小西(袁丽娟)",
-      "date": "2026-06-11",
-      "brand": "待定",
-      "shortBrand": "待定",
-      "kol": "安森妈妈营养品专场",
-      "target": 100,
-      "tier": "100w+",
-      "note": "补剂品牌待定",
-      "category": "",
-      "pending": true,
-      "brandPending": true,
-      "pendingMonth": "",
-      "createdAt": "2026-05-20T17:27:39.484Z"
-    },
-    {
       "id": "9cc591f1-2e51-42ed-9408-e41d89ebeb0f",
       "am": "am_xiaoxi",
       "amName": "小西(袁丽娟)",
@@ -1218,6 +1201,23 @@
       "brandPending": false,
       "pendingMonth": "6月",
       "createdAt": "2026-05-21T19:03:11.246Z"
+    },
+    {
+      "id": "53c6c31e-ec6d-4f04-8db3-4cdfada435b6",
+      "am": "am_xiaoxi",
+      "amName": "小西(袁丽娟)",
+      "date": "2026-06-02",
+      "brand": "VITAGrow唯他瑞海外旗舰店",
+      "shortBrand": "唯他瑞",
+      "kol": "皮哥妈",
+      "target": 10,
+      "tier": "10w+",
+      "note": "",
+      "category": "",
+      "pending": false,
+      "brandPending": false,
+      "pendingMonth": "",
+      "createdAt": "2026-06-02T13:00:14.482Z"
     }
   ],
   "benchmarks": {
@@ -1247,5 +1247,5 @@
     "美繁旗舰店": "已达成25w+，冲80w+",
     "STRAFBRG舒适宝旗舰店": "店播⬆️"
   },
-  "updatedAt": "2026-06-02T12:59:01.531Z"
+  "updatedAt": "2026-06-02T13:04:11.331Z"
 }
